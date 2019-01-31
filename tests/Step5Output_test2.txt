@@ -1,0 +1,2222 @@
+Author: Caleb Kinmon (UNI: cgk2128)
+
+Welcome to ROCK PAPER SCISSORS!
+The rules are simple:
+	ROCK smashes SCISSORS.
+	ROCK crushes LIZARD.
+	SCISSORS cuts PAPER.
+	SCISSORS decapitates LIZARD.
+	PAPER covers ROCK.
+	PAPER disproves SPOCK.
+	LIZARD poisons SPOCK.
+	LIZARD eats PAPER.
+	SPOCK smashes SCISSORS.
+	SPOCK vaporizes ROCK.
+	The same move results in a tie.
+Do you want to play as a simulated friend? Enter 'y' or 'n': n
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You tied!
+LIZARD ties with LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You lost!
+LIZARD loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: k
+
+You lost!
+SPOCK loses to LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: k
+
+You tied!
+SPOCK ties with SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You won!
+LIZARD beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You lost!
+LIZARD loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You won!
+LIZARD beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You won!
+LIZARD beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You won!
+LIZARD beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You lost!
+LIZARD loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: k
+
+You won!
+SPOCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: k
+
+You tied!
+SPOCK ties with SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: k
+
+You lost!
+SPOCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: k
+
+You tied!
+SPOCK ties with SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+r
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: 
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You lost!
+LIZARD loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You lost!
+LIZARD loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You lost!
+LIZARD loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You lost!
+LIZARD loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: l
+
+You lost!
+LIZARD loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You tied!
+PAPER ties with PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You won!
+SCISSORS beats LIZARD
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: r
+
+You lost!
+ROCK loses to SPOCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+	Enter 'l' (lowercase L) to select LIZARD.
+	Enter 'k' to select SPOCK.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+
+GAME OVER!
+--------GAME STATISTICS--------
+WINS	LOSSES	TIES	WIN %
+67	86	47	33.5%
+Total Games Played: 200

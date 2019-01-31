@@ -1,0 +1,6913 @@
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+PAPER beats ROCK
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+PAPER beats ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+PAPER beats ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+PAPER beats ROCK
+
+You won!
+PAPER beats ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+PAPER beats ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+PAPER beats ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+PAPER beats ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+PAPER beats ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+ROCK beats LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+PAPER beats ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+PAPER beats ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+PAPER beats ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats ROCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+PAPER loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SCISSORS loses to ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+PAPER ties with PAPER
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+PAPER loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+ROCK ties with ROCK
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+SCISSORS beats PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+ROCK loses to SPOCK
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+ROCK beats LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+ROCK beats SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You won!
+SPOCK beats SCISSORS
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+PAPER loses to SCISSORS
+
+You lost!
+ROCK loses to PAPER
+
+You won!
+ROCK beats LIZARD
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+SCISSORS ties with SCISSORS
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+ROCK loses to PAPER
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+ROCK beats LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+PAPER beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+SCISSORS beats LIZARD
+
+You lost!
+SPOCK loses to PAPER
+
+You won!
+ROCK beats SCISSORS
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+LIZARD loses to ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You won!
+SCISSORS beats LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+SPOCK beats ROCK
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You lost!
+SPOCK loses to PAPER
+
+You lost!
+SCISSORS loses to SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+SPOCK beats ROCK
+
+You tied!
+PAPER ties with PAPER
+
+You won!
+LIZARD beats PAPER
+
+You won!
+PAPER beats ROCK
+
+You lost!
+LIZARD loses to ROCK
+
+You tied!
+ROCK ties with ROCK
+
+You won!
+SPOCK beats SCISSORS
+
+You lost!
+ROCK loses to SPOCK
+
+You lost!
+SPOCK loses to LIZARD
+
+You won!
+PAPER beats ROCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+ROCK loses to SPOCK
+
+You tied!
+LIZARD ties with LIZARD
+
+You lost!
+LIZARD loses to SCISSORS
+
+You won!
+PAPER beats SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You won!
+PAPER beats SPOCK
+
+You won!
+PAPER beats ROCK
+
+You lost!
+SCISSORS loses to ROCK
+
+You won!
+PAPER beats ROCK
+
+You won!
+LIZARD beats SPOCK
+
+You won!
+SCISSORS beats PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SPOCK loses to LIZARD
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You tied!
+SPOCK ties with SPOCK
+
+You lost!
+PAPER loses to LIZARD
+
+You won!
+PAPER beats SPOCK
+
+You won!
+LIZARD beats PAPER
+
+You lost!
+PAPER loses to LIZARD
+
+You lost!
+SCISSORS loses to SPOCK
+
+You won!
+SPOCK beats ROCK
+
+GAME OVER!
+--------GAME STATISTICS--------
+WINS	LOSSES	TIES	WIN %
+4056	3944	2000	40.56%
+Total Games Played: 10000

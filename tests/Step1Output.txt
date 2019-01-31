@@ -1,0 +1,923 @@
+Author: Caleb Kinmon (UNI: cgk2128)
+
+Welcome to ROCK PAPER SCISSORS!
+The rules are simple:
+	ROCK smashes SCISSORS.
+	SCISSORS cuts PAPER.
+	PAPER covers ROCK.
+	The same move results in a tie.
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You tied!
+PAPER ties with PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: t
+Invalid character. Please enter a valid character: 
+s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: 2
+Invalid character. Please enter a valid character: 
+[
+Invalid character. Please enter a valid character: 
+r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You tied!
+PAPER ties with PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character:  
+s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You tied!
+PAPER ties with PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You tied!
+PAPER ties with PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You tied!
+PAPER ties with PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You tied!
+PAPER ties with PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: [
+Invalid character. Please enter a valid character: 
+p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You lost!
+ROCK loses to PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You tied!
+PAPER ties with PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You won!
+SCISSORS beats PAPER
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You lost!
+SCISSORS loses to ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You tied!
+ROCK ties with ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You lost!
+PAPER loses to SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: p
+
+You won!
+PAPER beats ROCK
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: s
+
+You tied!
+SCISSORS ties with SCISSORS
+----------
+Choose a move below:
+	Enter 'r' to select ROCK.
+	Enter 'p' to select PAPER.
+	Enter 's' to select SCISSORS.
+Enter a valid character: r
+
+You won!
+ROCK beats SCISSORS
+
+GAME OVER!
+--------GAME STATISTICS--------
+WINS	LOSSES	TIES	WIN %
+32	42	26	32.0%
+Total Games Played: 100

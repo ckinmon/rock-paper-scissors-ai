@@ -4,7 +4,7 @@ package rps;
  * 
  * @author Caleb Kinmon (UNI: cgk2128)
  * <br><br>
- * This interface contains two data structures to represent the possible outcomes of the game. 
+ * This class contains two data structures to represent the possible outcomes of the game. 
  * charArrayOfThrows is used to match valid character input, and stringArrayOfThrows is the 
  * corresponding representation of that character spelled out fully as a string. Because multiple 
  * classes use these data structures (Thrower, Outcome, EnhancedThrower), this interface was 
@@ -25,7 +25,7 @@ package rps;
  * structures still applies. 
  * <br><br>
  */
-public interface ValidThrows {
+public class ValidThrows {
 	
 	String[][] stringArrayOfThrows = new String[][]{{"ROCK", "SCISSORS", "LIZARD", "PAPER", "SPOCK"}, {"PAPER", "ROCK", "SPOCK", "SCISSORS", "LIZARD"}, {"SCISSORS", "PAPER", "LIZARD", "ROCK", "SPOCK"}, {"LIZARD", "PAPER", "SPOCK", "SCISSORS", "ROCK"}, {"SPOCK", "ROCK", "SCISSORS", "PAPER", "LIZARD"}};
 	char[][] charArrayOfThrows = new char[][]{{'r', 's', 'l', 'p', 'k'}, {'p', 'r', 'k', 's', 'l'}, {'s', 'p', 'l', 'r', 'k'}, {'l', 'p', 'k', 's', 'r'}, {'k', 'r', 's', 'p', 'l'}};

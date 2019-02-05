@@ -20,7 +20,7 @@ import java.util.Random;
  * <br><br>
  * UPDATE: This class did not require updating for step five!
  */
-public class Thrower implements ValidThrows{
+public class Thrower extends ValidThrows {
 	
 	/**
 	 * This method is used to determine player one's throw by accepting user input, 

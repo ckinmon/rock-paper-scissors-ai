@@ -2,7 +2,7 @@
 
 This is an API and application that simulates the game Rock, Paper, Scissors, Lizard, Spock. You can read the rules of the game here: https://the-big-bang-theory.com/rock-paper-scissors-lizard-spock/.
 
-This API allows two players to engage each other in a game of Rock, Paper, Scissors, Lizard, Spock. There are three types of players: 1) human, 2) computer, and 2) AI. The API allows developers to choose two players using any combination of the three types of players. 
+This API allows two players to engage each other in a game of Rock, Paper, Scissors, Lizard, Spock. There are three types of players: 1) human, 2) computer, and 3) AI. The API allows developers to choose two players using any combination of the three types of players. 
 
 The AI uses the recorded game history of the opponent to calculate a bias. If the opposing player is making a move more than 50% of the time, then the AI will choose a move that beats the identified bias. If the opposing player is playing a purely optimal randomized strategy, then the AI will also randomly choose a move.
 

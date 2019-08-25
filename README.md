@@ -9,8 +9,11 @@ The AI uses the recorded game history of the opponent to calculate a bias. If th
 ## Getting Started
 
 1a. Clone a copy of the source folder with eight .java files containing the various classes.
+
 1b. An older version of the game (with and without a GUI) is contained in the src folder. This version can also be cloned and the following steps can be used to execute the game. 
+
 2. Using a command prompt of your choice, navigate to the folder on your computer in which the .java files are containd and   compile the files.
+
 3. Run a simulation of the program by executing java Game (The Game.java file contains a nested "main" class that can be used for adjusting the settings of the game, such as choosing the players and determining the number of games to be played). 
 
 ### Prerequisites And Installation
